@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc6ff78a-6141-4cb9-ade8-ac325aaa50ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="130" column="92" lean-forward="true" selection-start-line="130" selection-start-column="92" selection-end-line="130" selection-end-column="92" />
+              <caret line="130" column="92" selection-start-line="130" selection-start-column="92" selection-end-line="130" selection-end-column="92" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -152,12 +151,12 @@
       <updated>1564221623658</updated>
       <workItem from="1564221624821" duration="9417000" />
       <workItem from="1564280228334" duration="5023000" />
-      <workItem from="1564299245377" duration="174000" />
+      <workItem from="1564299245377" duration="236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14614000" />
+    <option name="totallyTimeSpent" value="14676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -189,7 +188,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="130" column="92" lean-forward="true" selection-start-line="130" selection-start-column="92" selection-end-line="130" selection-end-column="92" />
+          <caret line="130" column="92" selection-start-line="130" selection-start-column="92" selection-end-line="130" selection-end-column="92" />
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
